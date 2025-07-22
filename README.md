@@ -15,10 +15,11 @@ class Giamma:
         self.interests = ["Geospatial Data", "Remote Sensing", "Financial Technology", "Development Economics", 
                          "Machine Learning", "Network Analysis", "Data Visualization"]
         self.languages = {"italian": "native", "English": "fluent", "Spanish": "basic"}
-        self.tools = ["Python", "SQL", "R", "C++", "Tableau", "Power BI", "Streamlit", "Apache Spark", "Apache Hadoop", "Apache Sedona", "Docker", "Git", "All you can do in Excel"]
+        self.tools = ["Python", "SQL", "R", "C++", "Tableau", "Power BI", "Streamlit", "Apache Spark", "Apache Hadoop",
+                    "Apache Sedona", "Docker", "Git", "All you can do in Excel"]
         
     def current_focus(self):
-        return "Studying Econometrics and Data Science at the Université Libre de Bruxelles and Geosciences at University of Siena"
+        return "Studying Data Science at the Université Libre de Bruxelles and Geosciences at University of Siena"
 ```
 
 ## 🔭 What I've Been Working On
