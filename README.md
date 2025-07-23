@@ -19,7 +19,7 @@ class Giamma:
                     "Apache Sedona", "Docker", "Git", "All you can do in Excel"]
         
     def current_focus(self):
-        return "Studying Data Science at the Université Libre de Bruxelles and Geosciences at University of Siena"
+        return "Studying Data Science at the Université Libre de Bruxelles and Geoscience at University of Siena"
 ```
 
 ## 🔭 What I've Been Working On
