@@ -25,6 +25,7 @@ class Giamma:
 ## 🔭 What I've Been Working On
 
 - 🏦 **European Central Bank:** Built data infrastructure for 3,000+ financial institutions and developed ML models for outsourcing risk detection
+- 📊 **LiDAR Analysis**: Created ML models to classify LiDAR data in mountain area using geospatial dependencies
 
 ## 💼 Experience Highlights
 
