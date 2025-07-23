@@ -24,9 +24,7 @@ class Giamma:
 
 ## 🔭 What I've Been Working On
 
-- 🏦 **European Central Bank:** Built data infrastructure for 3,000+ financial institutions and developed ML models for cyber risk detection
-- 📊 **Network Analysis:** Created tools to visualize transaction patterns in rural communities in Cameroon using Python, NetworkX, and Dash Plotly
-- 📝 **Research:** Contributed to papers on monetary innovation in developing economies
+- 🏦 **European Central Bank:** Built data infrastructure for 3,000+ financial institutions and developed ML models for outsourcing risk detection
 
 ## 💼 Experience Highlights
 
