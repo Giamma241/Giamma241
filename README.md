@@ -77,6 +77,6 @@ class Giamma:
 
 ### 📊 GitHub Stats:
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Giamma241&show_icons=true&theme=default" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giamma241&layout=compact" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=giammabria&show_icons=true&theme=default" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giammabria&layout=compact" />
 </div>
